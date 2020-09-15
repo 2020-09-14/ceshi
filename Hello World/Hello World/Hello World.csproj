@@ -6,4 +6,8 @@
     <RootNamespace>Hello_World</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="春雨\" />
+  </ItemGroup>
+
 </Project>
