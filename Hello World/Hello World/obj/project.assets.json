@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "C:\\Users\\86176\\Desktop\\新建文件夹\\Hello World\\Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj",
+      "projectPath": "C:\\Users\\86176\\Desktop\\新建文件夹\\Hello World\\Hello World\\Hello World.csproj",
       "packagesPath": "C:\\Users\\86176\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\obj\\",
+      "outputPath": "C:\\Users\\86176\\Desktop\\新建文件夹\\Hello World\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
