@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj": {}
+    "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj": {
+    "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj",
+        "projectUniqueName": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj",
         "projectName": "Hello World",
-        "projectPath": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\Hello World.csproj",
-        "packagesPath": "C:\\Users\\86176\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\86176\\Desktop\\新建文件夹 (2)\\Hello World\\Hello World\\obj\\",
+        "projectPath": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj",
+        "packagesPath": "C:\\Users\\guisu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\86176\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\guisu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
