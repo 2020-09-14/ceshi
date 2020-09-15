@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj",
+      "projectUniqueName": "C:\\Users\\guisu\\Desktop\\00001\\Hello World\\Hello World\\Hello World.csproj",
       "projectName": "Hello World",
-      "projectPath": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\Hello World.csproj",
+      "projectPath": "C:\\Users\\guisu\\Desktop\\00001\\Hello World\\Hello World\\Hello World.csproj",
       "packagesPath": "C:\\Users\\guisu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guisu\\Desktop\\0000\\Hello World\\Hello World\\obj\\",
+      "outputPath": "C:\\Users\\guisu\\Desktop\\00001\\Hello World\\Hello World\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guisu\\AppData\\Roaming\\NuGet\\NuGet.Config",
