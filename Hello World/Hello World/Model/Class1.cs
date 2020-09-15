@@ -7,5 +7,6 @@ namespace Hello_World.Model
     class Class1
     {
         public int Id { get; set; }
+        public int Name { get; set; }
     }
 }
