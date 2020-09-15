@@ -6,6 +6,7 @@ namespace Hello_World.Model
 {
     class Class1
     {
+        public int MyProperty { get; set; }
         public int Id { get; set; }
     }
 }
